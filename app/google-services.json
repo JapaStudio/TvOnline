@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431240660883",
+    "project_id": "onlinetv-86e09",
+    "storage_bucket": "onlinetv-86e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431240660883:android:a68612560b819f5035ca66",
+        "android_client_info": {
+          "package_name": "com.pinedapps.onlinetv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWUi10CgrqX2Kkz2juhJQTnZQI3WHfaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
